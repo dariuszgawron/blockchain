@@ -211,7 +211,7 @@
         </Grid>
 
         <!--WYŚWIETLANIE ZAWARTOŚCI-->
-        <ListView x:Name="lstProducts"  GridViewColumnHeader.Click="ColumnHeader_Click" HorizontalAlignment="Stretch" Margin="10,425,10,20" VerticalAlignment="Stretch" >
+        <ListView x:Name="lstProducts" GridViewColumnHeader.Click="ColumnHeader_Click" HorizontalAlignment="Stretch" Margin="10,425,10,20" VerticalAlignment="Stretch" >
             <ListView.View>
                 <GridView AllowsColumnReorder="True" >
                     <GridView.Columns>
