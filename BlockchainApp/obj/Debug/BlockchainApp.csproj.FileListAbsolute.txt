@@ -1,0 +1,1191 @@
+C:\Users\HybridSoldier\Documents\Visual Studio 2017\Projects\BlockchainApp\BlockchainApp\obj\Debug\BlockchainApp.csprojAssemblyReference.cache
+C:\Users\HybridSoldier\Documents\Visual Studio 2017\Projects\BlockchainApp\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\HybridSoldier\Documents\Visual Studio 2017\Projects\BlockchainApp\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\HybridSoldier\Documents\Visual Studio 2017\Projects\BlockchainApp\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\HybridSoldier\Documents\Visual Studio 2017\Projects\BlockchainApp\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\HybridSoldier\Documents\Visual Studio 2017\Projects\BlockchainApp\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\HybridSoldier\Documents\Visual Studio 2017\Projects\BlockchainApp\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\HybridSoldier\Documents\Visual Studio 2017\Projects\BlockchainApp\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\HybridSoldier\Documents\Visual Studio 2017\Projects\BlockchainApp\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HybridSoldier\Documents\Visual Studio 2017\Projects\BlockchainApp\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\HybridSoldier\Documents\Visual Studio 2017\Projects\BlockchainApp\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HybridSoldier\Documents\Visual Studio 2017\Projects\BlockchainApp\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\HybridSoldier\Documents\Visual Studio 2017\Projects\BlockchainApp\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\HybridSoldier\Documents\Visual Studio 2017\Projects\BlockchainApp\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\HybridSoldier\Documents\Visual Studio 2017\Projects\BlockchainApp\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\HybridSoldier\Documents\Visual Studio 2017\Projects\BlockchainApp\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\HybridSoldier\Documents\Visual Studio 2017\Projects\BlockchainApp\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\HybridSoldier\Documents\Visual Studio 2017\Projects\BlockchainApp\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\HybridSoldier\Documents\Visual Studio 2017\Projects\BlockchainApp\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\HybridSoldier\Documents\Visual Studio 2017\Projects\BlockchainApp\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\HybridSoldier\Documents\Visual Studio 2017\Projects\BlockchainApp\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\HybridSoldier\Documents\Visual Studio 2017\Projects\BlockchainApp[0.0.1]\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\HybridSoldier\Documents\Visual Studio 2017\Projects\BlockchainApp[0.0.1]\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\HybridSoldier\Documents\Visual Studio 2017\Projects\BlockchainApp[0.0.1]\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\HybridSoldier\Documents\Visual Studio 2017\Projects\BlockchainApp[0.0.1]\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HybridSoldier\Documents\Visual Studio 2017\Projects\BlockchainApp[0.0.1]\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\HybridSoldier\Documents\Visual Studio 2017\Projects\BlockchainApp[0.0.1]\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HybridSoldier\Documents\Visual Studio 2017\Projects\BlockchainApp[0.0.1]\BlockchainApp\obj\Debug\BlockchainApp.csprojAssemblyReference.cache
+C:\Users\HybridSoldier\Documents\Visual Studio 2017\Projects\BlockchainApp[0.0.1]\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\HybridSoldier\Documents\Visual Studio 2017\Projects\BlockchainApp[0.0.1]\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\HybridSoldier\Documents\Visual Studio 2017\Projects\BlockchainApp[0.0.1]\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\HybridSoldier\Documents\Visual Studio 2017\Projects\BlockchainApp[0.0.1]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\HybridSoldier\Documents\Visual Studio 2017\Projects\BlockchainApp[0.0.1]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\HybridSoldier\Documents\Visual Studio 2017\Projects\BlockchainApp[0.0.1]\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\HybridSoldier\Documents\Visual Studio 2017\Projects\BlockchainApp[0.0.1]\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\HybridSoldier\Documents\Visual Studio 2017\Projects\BlockchainApp[0.0.1]\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\HybridSoldier\Documents\Visual Studio 2017\Projects\BlockchainApp[0.0.1]\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\HybridSoldier\Documents\Visual Studio 2017\Projects\BlockchainApp[0.0.1]\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\HybridSoldier\Documents\Visual Studio 2017\Projects\BlockchainApp[0.0.1]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\HybridSoldier\Documents\Visual Studio 2017\Projects\BlockchainApp[0.0.1]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\HybridSoldier\Documents\Visual Studio 2017\Projects\BlockchainApp[0.0.1]\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\HybridSoldier\Documents\Visual Studio 2017\Projects\BlockchainApp[0.0.1]\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.2]\BlockchainApp[0.0.2]\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.2]\BlockchainApp[0.0.2]\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.2]\BlockchainApp[0.0.2]\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.2]\BlockchainApp[0.0.2]\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.2]\BlockchainApp[0.0.2]\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.2]\BlockchainApp[0.0.2]\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.2]\BlockchainApp[0.0.2]\BlockchainApp\obj\Debug\BlockchainApp.csprojAssemblyReference.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.2]\BlockchainApp[0.0.2]\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.2]\BlockchainApp[0.0.2]\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.2]\BlockchainApp[0.0.2]\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.2]\BlockchainApp[0.0.2]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.2]\BlockchainApp[0.0.2]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.2]\BlockchainApp[0.0.2]\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.2]\BlockchainApp[0.0.2]\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.2]\BlockchainApp[0.0.2]\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.2]\BlockchainApp[0.0.2]\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.2]\BlockchainApp[0.0.2]\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.2]\BlockchainApp[0.0.2]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.2]\BlockchainApp[0.0.2]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.2]\BlockchainApp[0.0.2]\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.2]\BlockchainApp[0.0.2]\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.3]\BlockchainApp[0.0.3]\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.3]\BlockchainApp[0.0.3]\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.3]\BlockchainApp[0.0.3]\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.3]\BlockchainApp[0.0.3]\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.3]\BlockchainApp[0.0.3]\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.3]\BlockchainApp[0.0.3]\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.3]\BlockchainApp[0.0.3]\BlockchainApp\obj\Debug\BlockchainApp.csprojAssemblyReference.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.3]\BlockchainApp[0.0.3]\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.3]\BlockchainApp[0.0.3]\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.3]\BlockchainApp[0.0.3]\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.3]\BlockchainApp[0.0.3]\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.3]\BlockchainApp[0.0.3]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.3]\BlockchainApp[0.0.3]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.3]\BlockchainApp[0.0.3]\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.3]\BlockchainApp[0.0.3]\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.3]\BlockchainApp[0.0.3]\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.3]\BlockchainApp[0.0.3]\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.3]\BlockchainApp[0.0.3]\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.3]\BlockchainApp[0.0.3]\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.3]\BlockchainApp[0.0.3]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.3]\BlockchainApp[0.0.3]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.3]\BlockchainApp[0.0.3]\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.3]\BlockchainApp[0.0.3]\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.4]\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.4]\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.4]\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.4]\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.4]\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.4]\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.4]\BlockchainApp\obj\Debug\BlockchainApp.csprojAssemblyReference.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.4]\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.4]\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.4]\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.4]\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.4]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.4]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.4]\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.4]\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.4]\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.4]\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.4]\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.4]\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.4]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.4]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.4]\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.4]\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.4]\BlockchainApp\obj\Debug\ProductDetails.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.4]\BlockchainApp\obj\Debug\ProductDetails.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.5]\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.5]\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.5]\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.5]\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.5]\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.5]\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.5]\BlockchainApp\obj\Debug\BlockchainApp.csprojAssemblyReference.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.5]\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.5]\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.5]\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.5]\BlockchainApp\obj\Debug\ProductDetails.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.5]\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.5]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.5]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.5]\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.5]\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.5]\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.5]\BlockchainApp\obj\Debug\ProductDetails.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.5]\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.5]\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.5]\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.5]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.5]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.5]\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.5]\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.6]\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.6]\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.6]\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.6]\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.6]\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.6]\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.6]\BlockchainApp\obj\Debug\BlockchainApp.csprojAssemblyReference.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.6]\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.6]\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.6]\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.6]\BlockchainApp\obj\Debug\ProductDetails.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.6]\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.6]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.6]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.6]\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.6]\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.6]\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.6]\BlockchainApp\obj\Debug\ProductDetails.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.6]\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.6]\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.6]\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.6]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.6]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.6]\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.6]\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.7]\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.7]\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.7]\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.7]\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.7]\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.7]\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.7]\BlockchainApp\obj\Debug\BlockchainApp.csprojAssemblyReference.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.7]\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.7]\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.7]\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.7]\BlockchainApp\obj\Debug\ProductDetails.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.7]\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.7]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.7]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.7]\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.7]\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.7]\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.7]\BlockchainApp\obj\Debug\ProductDetails.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.7]\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.7]\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.7]\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.7]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.7]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.7]\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.7]\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.8]\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.8]\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.8]\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.8]\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.8]\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.8]\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.8]\BlockchainApp\obj\Debug\BlockchainApp.csprojAssemblyReference.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.8]\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.8]\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.8]\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.8]\BlockchainApp\obj\Debug\ProductDetails.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.8]\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.8]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.8]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.8]\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.8]\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.8]\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.8]\BlockchainApp\obj\Debug\ProductDetails.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.8]\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.8]\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.8]\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.8]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.8]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.8]\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.0.8]\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.0]\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.0]\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.0]\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.0]\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.0]\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.0]\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.0]\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.0]\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.0]\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.0]\BlockchainApp\obj\Debug\ProductDetails.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.0]\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.0]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.0]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.0]\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.0]\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.0]\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.0]\BlockchainApp\obj\Debug\ProductDetails.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.0]\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.0]\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.0]\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.0]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.0]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.0]\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.0]\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.1]\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.1]\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.1]\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.1]\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.1]\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.1]\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.1]\BlockchainApp\obj\Debug\BlockchainApp.csprojAssemblyReference.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.1]\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.1]\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.1]\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.1]\BlockchainApp\obj\Debug\ProductDetails.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.1]\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.1]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.1]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.1]\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.1]\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.1]\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.1]\BlockchainApp\obj\Debug\ProductDetails.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.1]\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.1]\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.1]\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.1]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.1]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.1]\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.1]\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.1]\BlockchainApp[0.1.2]b\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.1]\BlockchainApp[0.1.2]b\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.1]\BlockchainApp[0.1.2]b\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.1]\BlockchainApp[0.1.2]b\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.1]\BlockchainApp[0.1.2]b\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.1]\BlockchainApp[0.1.2]b\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.1]\BlockchainApp[0.1.2]b\BlockchainApp\obj\Debug\BlockchainApp.csprojAssemblyReference.cache
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.1]\BlockchainApp[0.1.2]b\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.1]\BlockchainApp[0.1.2]b\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.1]\BlockchainApp[0.1.2]b\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.1]\BlockchainApp[0.1.2]b\BlockchainApp\obj\Debug\ProductDetails.g.cs
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.1]\BlockchainApp[0.1.2]b\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.1]\BlockchainApp[0.1.2]b\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.1]\BlockchainApp[0.1.2]b\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.1]\BlockchainApp[0.1.2]b\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.1]\BlockchainApp[0.1.2]b\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.1]\BlockchainApp[0.1.2]b\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.1]\BlockchainApp[0.1.2]b\BlockchainApp\obj\Debug\ProductDetails.baml
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.1]\BlockchainApp[0.1.2]b\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.1]\BlockchainApp[0.1.2]b\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.1]\BlockchainApp[0.1.2]b\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.1]\BlockchainApp[0.1.2]b\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.1]\BlockchainApp[0.1.2]b\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.1]\BlockchainApp[0.1.2]b\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.1]\BlockchainApp[0.1.2]b\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.3]\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.3]\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.3]\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.3]\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.3]\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.3]\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.3]\BlockchainApp\obj\Debug\BlockchainApp.csprojAssemblyReference.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.3]\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.3]\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.3]\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.3]\BlockchainApp\obj\Debug\ProductDetails.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.3]\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.3]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.3]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.3]\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.3]\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.3]\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.3]\BlockchainApp\obj\Debug\ProductDetails.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.3]\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.3]\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.3]\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.3]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.3]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.3]\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.3]\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.4]b\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.4]b\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.4]b\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.4]b\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.4]b\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.4]b\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.4]b\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.4]b\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.4]b\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.4]b\BlockchainApp\obj\Debug\ProductDetails.g.cs
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.4]b\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.4]b\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.4]b\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.4]b\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.4]b\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.4]b\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.4]b\BlockchainApp\obj\Debug\ProductDetails.baml
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.4]b\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.4]b\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.4]b\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.4]b\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.4]b\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.4]b\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.4]b\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.4]b\BlockchainApp\obj\Debug\BlockchainApp.csprojAssemblyReference.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.5]\BlockchainApp[0.1.4]b\BlockchainApp\obj\Debug\BlockchainApp.csprojAssemblyReference.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.5]\BlockchainApp[0.1.4]b\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.5]\BlockchainApp[0.1.4]b\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.5]\BlockchainApp[0.1.4]b\BlockchainApp\obj\Debug\ProductDetails.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.5]\BlockchainApp[0.1.4]b\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.5]\BlockchainApp[0.1.4]b\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.5]\BlockchainApp[0.1.4]b\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.5]\BlockchainApp[0.1.4]b\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.5]\BlockchainApp[0.1.4]b\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.5]\BlockchainApp[0.1.4]b\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.5]\BlockchainApp[0.1.4]b\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.5]\BlockchainApp[0.1.4]b\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.5]\BlockchainApp[0.1.4]b\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.5]\BlockchainApp[0.1.4]b\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.5]\BlockchainApp[0.1.4]b\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.5]\BlockchainApp[0.1.4]b\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.5]\BlockchainApp[0.1.4]b\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.5]\BlockchainApp[0.1.4]b\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.5]\BlockchainApp[0.1.4]b\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.5]\BlockchainApp[0.1.4]b\BlockchainApp\obj\Debug\ProductDetails.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.5]\BlockchainApp[0.1.4]b\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.5]\BlockchainApp[0.1.4]b\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.5]\BlockchainApp[0.1.4]b\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.5]\BlockchainApp[0.1.4]b\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.5]\BlockchainApp[0.1.4]b\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.6]\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.6]\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.6]\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.6]\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.6]\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.6]\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.6]\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.6]\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.6]\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.6]\BlockchainApp\obj\Debug\ProductDetails.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.6]\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.6]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.6]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.6]\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.6]\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.6]\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.6]\BlockchainApp\obj\Debug\ProductDetails.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.6]\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.6]\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.6]\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.6]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.6]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.6]\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.6]\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.6]\BlockchainApp\obj\Debug\BlockchainApp.csprojAssemblyReference.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.6]\BlockchainApp\bin\Debug\EPPlus.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.6]\BlockchainApp\bin\Debug\EPPlus.xml
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.7]b\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.7]b\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.7]b\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.7]b\BlockchainApp\bin\Debug\EPPlus.dll
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.7]b\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.7]b\BlockchainApp\bin\Debug\EPPlus.xml
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.7]b\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.7]b\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.7]b\BlockchainApp\obj\Debug\BlockchainApp.csprojAssemblyReference.cache
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.7]b\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.7]b\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.7]b\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.7]b\BlockchainApp\obj\Debug\ProductDetails.g.cs
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.7]b\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.7]b\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.7]b\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.7]b\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.7]b\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.7]b\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.7]b\BlockchainApp\obj\Debug\ProductDetails.baml
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.7]b\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.7]b\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.7]b\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.7]b\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.7]b\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.7]b\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.1.7]b\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.8]\BlockchainApp\obj\Debug\BlockchainApp.csprojAssemblyReference.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.8]\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.8]\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.8]\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.8]\BlockchainApp\obj\Debug\ProductDetails.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.8]\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.8]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.8]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.8]\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.8]\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.8]\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.8]\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.8]\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.8]\BlockchainApp\bin\Debug\EPPlus.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.8]\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.8]\BlockchainApp\bin\Debug\EPPlus.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.8]\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.8]\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.8]\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.8]\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.8]\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.8]\BlockchainApp\obj\Debug\ProductDetails.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.8]\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.8]\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.8]\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.8]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.1.8]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.1]\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.1]\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.1]\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.1]\BlockchainApp\bin\Debug\EPPlus.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.1]\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.1]\BlockchainApp\bin\Debug\EPPlus.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.1]\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.1]\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.1]\BlockchainApp\obj\Debug\BlockchainApp.csprojAssemblyReference.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.1]\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.1]\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.1]\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.1]\BlockchainApp\obj\Debug\ProductDetails.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.1]\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.1]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.1]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.1]\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.1]\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.1]\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.1]\BlockchainApp\obj\Debug\ProductDetails.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.1]\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.1]\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.1]\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.1]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.1]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.1]\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.1]\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.2.2]\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.2.2]\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.2.2]\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.2.2]\BlockchainApp\bin\Debug\EPPlus.dll
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.2.2]\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.2.2]\BlockchainApp\bin\Debug\EPPlus.xml
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.2.2]\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.2.2]\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.2.2]\BlockchainApp\obj\Debug\BlockchainApp.csprojAssemblyReference.cache
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.2.2]\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.2.2]\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.2.2]\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.2.2]\BlockchainApp\obj\Debug\ProductDetails.g.cs
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.2.2]\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.2.2]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.2.2]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.2.2]\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.2.2]\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.2.2]\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.2.2]\BlockchainApp\obj\Debug\ProductDetails.baml
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.2.2]\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.2.2]\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.2.2]\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.2.2]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.2.2]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.2.2]\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\Developer\Documents\VSBC\BlockchainApp[0.2.2]\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.2]\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.2]\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.2]\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.2]\BlockchainApp\bin\Debug\EPPlus.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.2]\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.2]\BlockchainApp\bin\Debug\EPPlus.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.2]\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.2]\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.2]\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.2]\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.2]\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.2]\BlockchainApp\obj\Debug\ProductDetails.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.2]\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.2]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.2]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.2]\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.2]\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.2]\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.2]\BlockchainApp\obj\Debug\ProductDetails.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.2]\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.2]\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.2]\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.2]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.2]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.2]\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.2]\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3]\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3]\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3]\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3]\BlockchainApp\bin\Debug\EPPlus.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3]\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3]\BlockchainApp\bin\Debug\EPPlus.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3]\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3]\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3]\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3]\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3]\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3]\BlockchainApp\obj\Debug\ProductDetails.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3]\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3]\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3]\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3]\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3]\BlockchainApp\obj\Debug\ProductDetails.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3]\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3]\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3]\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3]\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3]\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3] (v7)\BlockchainApp[0.2.3]\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3] (v7)\BlockchainApp[0.2.3]\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3] (v7)\BlockchainApp[0.2.3]\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3] (v7)\BlockchainApp[0.2.3]\BlockchainApp\bin\Debug\EPPlus.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3] (v7)\BlockchainApp[0.2.3]\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3] (v7)\BlockchainApp[0.2.3]\BlockchainApp\bin\Debug\EPPlus.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3] (v7)\BlockchainApp[0.2.3]\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3] (v7)\BlockchainApp[0.2.3]\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3] (v7)\BlockchainApp[0.2.3]\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3] (v7)\BlockchainApp[0.2.3]\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3] (v7)\BlockchainApp[0.2.3]\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3] (v7)\BlockchainApp[0.2.3]\BlockchainApp\obj\Debug\ProductDetails.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3] (v7)\BlockchainApp[0.2.3]\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3] (v7)\BlockchainApp[0.2.3]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3] (v7)\BlockchainApp[0.2.3]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3] (v7)\BlockchainApp[0.2.3]\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3] (v7)\BlockchainApp[0.2.3]\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3] (v7)\BlockchainApp[0.2.3]\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3] (v7)\BlockchainApp[0.2.3]\BlockchainApp\obj\Debug\ProductDetails.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3] (v7)\BlockchainApp[0.2.3]\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3] (v7)\BlockchainApp[0.2.3]\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3] (v7)\BlockchainApp[0.2.3]\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3] (v7)\BlockchainApp[0.2.3]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3] (v7)\BlockchainApp[0.2.3]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3] (v7)\BlockchainApp[0.2.3]\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3] (v7)\BlockchainApp[0.2.3]\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.2.3] (v7)\BlockchainApp[0.2.3]\BlockchainApp\obj\Debug\BlockchainApp.csprojAssemblyReference.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.1]\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.1]\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.1]\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.1]\BlockchainApp\bin\Debug\EPPlus.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.1]\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.1]\BlockchainApp\bin\Debug\EPPlus.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.1]\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.1]\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.1]\BlockchainApp\obj\Debug\BlockchainApp.csprojAssemblyReference.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.1]\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.1]\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.1]\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.1]\BlockchainApp\obj\Debug\ProductDetails.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.1]\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.1]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.1]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.1]\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.1]\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.1]\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.1]\BlockchainApp\obj\Debug\ProductDetails.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.1]\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.1]\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.1]\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.1]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.1]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.1]\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.1]\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.2]\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.2]\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.2]\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.2]\BlockchainApp\obj\Debug\ProductDetails.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.2]\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.2]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.2]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.2]\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.2]\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.2]\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.2]\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.2]\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.2]\BlockchainApp\bin\Debug\EPPlus.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.2]\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.2]\BlockchainApp\bin\Debug\EPPlus.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.2]\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.2]\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.2]\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.2]\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.2]\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.2]\BlockchainApp\obj\Debug\ProductDetails.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.2]\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.2]\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.2]\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.2]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.2]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.3]\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.3]\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.3]\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.3]\BlockchainApp\bin\Debug\EPPlus.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.3]\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.3]\BlockchainApp\bin\Debug\EPPlus.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.3]\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.3]\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.3]\BlockchainApp\obj\Debug\BlockchainApp.csprojAssemblyReference.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.3]\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.3]\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.3]\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.3]\BlockchainApp\obj\Debug\ProductDetails.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.3]\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.3]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.3]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.3]\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.3]\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.3]\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.3]\BlockchainApp\obj\Debug\ProductDetails.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.3]\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.3]\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.3]\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.3]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.3]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.3]\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.3]\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.4]\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.4]\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.4]\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.4]\BlockchainApp\bin\Debug\EPPlus.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.4]\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.4]\BlockchainApp\bin\Debug\EPPlus.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.4]\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.4]\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.4]\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.4]\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.4]\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.4]\BlockchainApp\obj\Debug\ProductDetails.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.4]\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.4]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.4]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.4]\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.4]\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.4]\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.4]\BlockchainApp\obj\Debug\ProductDetails.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.4]\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.4]\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.4]\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.4]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.4]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.4]\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.4]\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.3.4]\BlockchainApp\obj\Debug\BlockchainApp.csprojAssemblyReference.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.4.1]\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.4.1]\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.4.1]\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.4.1]\BlockchainApp\bin\Debug\EPPlus.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.4.1]\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.4.1]\BlockchainApp\bin\Debug\EPPlus.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.4.1]\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.4.1]\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.4.1]\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.4.1]\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.4.1]\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.4.1]\BlockchainApp\obj\Debug\ProductDetails.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.4.1]\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.4.1]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.4.1]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.4.1]\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.4.1]\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.4.1]\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.4.1]\BlockchainApp\obj\Debug\ProductDetails.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.4.1]\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.4.1]\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.4.1]\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.4.1]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.4.1]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.4.1]\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.4.1]\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.4.1]\BlockchainApp\obj\Debug\BlockchainApp.csprojAssemblyReference.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.1]\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.1]\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.1]\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.1]\BlockchainApp\bin\Debug\EPPlus.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.1]\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.1]\BlockchainApp\bin\Debug\EPPlus.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.1]\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.1]\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.1]\BlockchainApp\obj\Debug\BlockchainApp.csprojAssemblyReference.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.1]\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.1]\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.1]\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.1]\BlockchainApp\obj\Debug\ProductDetails.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.1]\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.1]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.1]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.1]\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.1]\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.1]\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.1]\BlockchainApp\obj\Debug\ProductDetails.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.1]\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.1]\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.1]\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.1]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.1]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.1]\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.1]\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.2]\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.2]\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.2]\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.2]\BlockchainApp\bin\Debug\EPPlus.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.2]\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.2]\BlockchainApp\bin\Debug\EPPlus.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.2]\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.2]\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.2]\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.2]\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.2]\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.2]\BlockchainApp\obj\Debug\ProductDetails.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.2]\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.2]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.2]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.2]\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.2]\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.2]\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.2]\BlockchainApp\obj\Debug\ProductDetails.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.2]\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.2]\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.2]\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.2]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.2]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.2]\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.2]\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.3]\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.3]\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.3]\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.3]\BlockchainApp\bin\Debug\EPPlus.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.3]\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.3]\BlockchainApp\bin\Debug\EPPlus.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.3]\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.3]\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.3]\BlockchainApp\obj\Debug\BlockchainApp.csprojAssemblyReference.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.3]\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.3]\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.3]\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.3]\BlockchainApp\obj\Debug\ProductDetails.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.3]\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.3]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.3]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.3]\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.3]\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.3]\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.3]\BlockchainApp\obj\Debug\ProductDetails.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.3]\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.3]\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.3]\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.3]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.3]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.3]\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[0.5.3]\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp2\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp2\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp2\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp2\BlockchainApp\bin\Debug\EPPlus.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp2\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp2\BlockchainApp\bin\Debug\EPPlus.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp2\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp2\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp2\BlockchainApp\obj\Debug\BlockchainApp.csprojAssemblyReference.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp2\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp2\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp2\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp2\BlockchainApp\obj\Debug\ProductDetails.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp2\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp2\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp2\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp2\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp2\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp2\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp2\BlockchainApp\obj\Debug\ProductDetails.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp2\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp2\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp2\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp2\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp2\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp2\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp2\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3\BlockchainApp\obj\Debug\ProductDetails.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3\BlockchainApp\bin\Debug\EPPlus.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3\BlockchainApp\bin\Debug\EPPlus.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3\BlockchainApp\obj\Debug\ProductDetails.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3\BlockchainApp\obj\Debug\BlockchainApp.csprojAssemblyReference.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_1\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_1\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_1\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_1\BlockchainApp\bin\Debug\EPPlus.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_1\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_1\BlockchainApp\bin\Debug\EPPlus.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_1\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_1\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_1\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_1\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_1\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_1\BlockchainApp\obj\Debug\ProductDetails.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_1\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_1\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_1\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_1\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_1\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_1\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_1\BlockchainApp\obj\Debug\ProductDetails.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_1\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_1\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_1\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_1\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_1\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_1\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_1\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_2\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_2\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_2\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_2\BlockchainApp\bin\Debug\EPPlus.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_2\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_2\BlockchainApp\bin\Debug\EPPlus.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_2\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_2\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_2\BlockchainApp\obj\Debug\BlockchainApp.csprojAssemblyReference.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_2\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_2\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_2\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_2\BlockchainApp\obj\Debug\ProductDetails.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_2\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_2\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_2\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_2\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_2\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_2\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_2\BlockchainApp\obj\Debug\ProductDetails.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_2\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_2\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_2\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_2\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_2\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_2\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_2\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_3\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_3\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_3\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_3\BlockchainApp\bin\Debug\EPPlus.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_3\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_3\BlockchainApp\bin\Debug\EPPlus.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_3\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_3\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_3\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_3\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_3\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_3\BlockchainApp\obj\Debug\ProductDetails.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_3\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_3\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_3\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_3\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_3\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_3\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_3\BlockchainApp\obj\Debug\ProductDetails.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_3\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_3\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_3\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_3\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_3\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_3\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp3_3\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.1]\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.1]\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.1]\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.1]\BlockchainApp\bin\Debug\EPPlus.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.1]\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.1]\BlockchainApp\bin\Debug\EPPlus.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.1]\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.1]\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.1]\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.1]\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.1]\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.1]\BlockchainApp\obj\Debug\ProductDetails.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.1]\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.1]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.1]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.1]\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.1]\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.1]\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.1]\BlockchainApp\obj\Debug\ProductDetails.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.1]\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.1]\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.1]\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.1]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.1]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.1]\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.1]\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.1]\BlockchainApp\obj\Debug\BlockchainApp.csprojAssemblyReference.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.2]\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.2]\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.2]\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.2]\BlockchainApp\bin\Debug\EPPlus.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.2]\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.2]\BlockchainApp\bin\Debug\EPPlus.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.2]\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.2]\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.2]\BlockchainApp\obj\Debug\BlockchainApp.csprojAssemblyReference.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.2]\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.2]\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.2]\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.2]\BlockchainApp\obj\Debug\ProductDetails.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.2]\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.2]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.2]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.2]\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.2]\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.2]\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.2]\BlockchainApp\obj\Debug\ProductDetails.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.2]\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.2]\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.2]\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.2]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.2]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.2]\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.2]\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.3]\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.3]\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.3]\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.3]\BlockchainApp\bin\Debug\EPPlus.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.3]\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.3]\BlockchainApp\bin\Debug\EPPlus.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.3]\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.3]\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.3]\BlockchainApp\obj\Debug\BlockchainApp.csprojAssemblyReference.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.3]\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.3]\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.3]\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.3]\BlockchainApp\obj\Debug\ProductDetails.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.3]\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.3]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.3]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.3]\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.3]\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.3]\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.3]\BlockchainApp\obj\Debug\ProductDetails.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.3]\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.3]\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.3]\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.3]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.3]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.3]\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.3]\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.4]\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.4]\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.4]\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.4]\BlockchainApp\bin\Debug\EPPlus.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.4]\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.4]\BlockchainApp\bin\Debug\EPPlus.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.4]\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.4]\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.4]\BlockchainApp\obj\Debug\BlockchainApp.csprojAssemblyReference.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.4]\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.4]\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.4]\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.4]\BlockchainApp\obj\Debug\ProductDetails.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.4]\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.4]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.4]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.4]\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.4]\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.4]\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.4]\BlockchainApp\obj\Debug\ProductDetails.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.4]\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.4]\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.4]\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.4]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.4]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.4]\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[2.0.4]\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.0]\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.0]\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.0]\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.0]\BlockchainApp\bin\Debug\EPPlus.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.0]\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.0]\BlockchainApp\bin\Debug\EPPlus.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.0]\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.0]\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.0]\BlockchainApp\obj\Debug\BlockchainApp.csprojAssemblyReference.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.0]\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.0]\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.0]\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.0]\BlockchainApp\obj\Debug\ProductDetails.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.0]\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.0]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.0]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.0]\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.0]\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.0]\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.0]\BlockchainApp\obj\Debug\ProductDetails.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.0]\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.0]\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.0]\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.0]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.0]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.0]\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.0]\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.1]\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.1]\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.1]\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.1]\BlockchainApp\bin\Debug\EPPlus.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.1]\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.1]\BlockchainApp\bin\Debug\EPPlus.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.1]\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.1]\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.1]\BlockchainApp\obj\Debug\BlockchainApp.csprojAssemblyReference.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.1]\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.1]\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.1]\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.1]\BlockchainApp\obj\Debug\ProductDetails.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.1]\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.1]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.1]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.1]\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.1]\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.1]\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.1]\BlockchainApp\obj\Debug\ProductDetails.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.1]\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.1]\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.1]\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.1]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.1]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.1]\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.1]\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.2]\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.2]\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.2]\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.2]\BlockchainApp\bin\Debug\EPPlus.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.2]\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.2]\BlockchainApp\bin\Debug\EPPlus.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.2]\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.2]\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.2]\BlockchainApp\obj\Debug\BlockchainApp.csprojAssemblyReference.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.2]\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.2]\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.2]\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.2]\BlockchainApp\obj\Debug\ProductDetails.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.2]\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.2]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.2]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.2]\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.2]\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.2]\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.2]\BlockchainApp\obj\Debug\ProductDetails.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.2]\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.2]\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.2]\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.2]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.2]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.2]\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.2]\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.3]\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.3]\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.3]\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.3]\BlockchainApp\bin\Debug\EPPlus.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.3]\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.3]\BlockchainApp\bin\Debug\EPPlus.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.3]\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.3]\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.3]\BlockchainApp\obj\Debug\BlockchainApp.csprojAssemblyReference.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.3]\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.3]\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.3]\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.3]\BlockchainApp\obj\Debug\ProductDetails.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.3]\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.3]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.3]\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.3]\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.3]\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.3]\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.3]\BlockchainApp\obj\Debug\ProductDetails.baml
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.3]\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.3]\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.3]\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.3]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.3]\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.3]\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\dastan\OneDrive\Dokumenty\Magisterka\Aplikacja\Gotowy projekt\BlockchainApp[3.0.3]\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\dastan\Desktop\MAGISTERKA\projekt\Aplikacja\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\dastan\Desktop\MAGISTERKA\projekt\Aplikacja\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\dastan\Desktop\MAGISTERKA\projekt\Aplikacja\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\dastan\Desktop\MAGISTERKA\projekt\Aplikacja\BlockchainApp\bin\Debug\EPPlus.dll
+C:\Users\dastan\Desktop\MAGISTERKA\projekt\Aplikacja\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dastan\Desktop\MAGISTERKA\projekt\Aplikacja\BlockchainApp\bin\Debug\EPPlus.xml
+C:\Users\dastan\Desktop\MAGISTERKA\projekt\Aplikacja\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dastan\Desktop\MAGISTERKA\projekt\Aplikacja\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dastan\Desktop\MAGISTERKA\projekt\Aplikacja\BlockchainApp\obj\Debug\BlockchainApp.csprojAssemblyReference.cache
+C:\Users\dastan\Desktop\MAGISTERKA\projekt\Aplikacja\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\dastan\Desktop\MAGISTERKA\projekt\Aplikacja\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\dastan\Desktop\MAGISTERKA\projekt\Aplikacja\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\dastan\Desktop\MAGISTERKA\projekt\Aplikacja\BlockchainApp\obj\Debug\ProductDetails.g.cs
+C:\Users\dastan\Desktop\MAGISTERKA\projekt\Aplikacja\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\dastan\Desktop\MAGISTERKA\projekt\Aplikacja\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\dastan\Desktop\MAGISTERKA\projekt\Aplikacja\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\dastan\Desktop\MAGISTERKA\projekt\Aplikacja\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\dastan\Desktop\MAGISTERKA\projekt\Aplikacja\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\dastan\Desktop\MAGISTERKA\projekt\Aplikacja\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\dastan\Desktop\MAGISTERKA\projekt\Aplikacja\BlockchainApp\obj\Debug\ProductDetails.baml
+C:\Users\dastan\Desktop\MAGISTERKA\projekt\Aplikacja\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\dastan\Desktop\MAGISTERKA\projekt\Aplikacja\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\dastan\Desktop\MAGISTERKA\projekt\Aplikacja\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\dastan\Desktop\MAGISTERKA\projekt\Aplikacja\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\dastan\Desktop\MAGISTERKA\projekt\Aplikacja\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\dastan\Desktop\MAGISTERKA\projekt\Aplikacja\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\dastan\Desktop\MAGISTERKA\projekt\Aplikacja\BlockchainApp\obj\Debug\BlockchainApp.pdb
+C:\Users\dastan\Desktop\Aplikacja\BlockchainApp\bin\Debug\BlockchainApp.exe.config
+C:\Users\dastan\Desktop\Aplikacja\BlockchainApp\bin\Debug\BlockchainApp.exe
+C:\Users\dastan\Desktop\Aplikacja\BlockchainApp\bin\Debug\BlockchainApp.pdb
+C:\Users\dastan\Desktop\Aplikacja\BlockchainApp\bin\Debug\EPPlus.dll
+C:\Users\dastan\Desktop\Aplikacja\BlockchainApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dastan\Desktop\Aplikacja\BlockchainApp\bin\Debug\EPPlus.xml
+C:\Users\dastan\Desktop\Aplikacja\BlockchainApp\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dastan\Desktop\Aplikacja\BlockchainApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dastan\Desktop\Aplikacja\BlockchainApp\obj\Debug\BlockchainApp.csprojAssemblyReference.cache
+C:\Users\dastan\Desktop\Aplikacja\BlockchainApp\obj\Debug\AddProduct.g.cs
+C:\Users\dastan\Desktop\Aplikacja\BlockchainApp\obj\Debug\Connection.g.cs
+C:\Users\dastan\Desktop\Aplikacja\BlockchainApp\obj\Debug\LoginForm.g.cs
+C:\Users\dastan\Desktop\Aplikacja\BlockchainApp\obj\Debug\ProductDetails.g.cs
+C:\Users\dastan\Desktop\Aplikacja\BlockchainApp\obj\Debug\App.g.cs
+C:\Users\dastan\Desktop\Aplikacja\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.cache
+C:\Users\dastan\Desktop\Aplikacja\BlockchainApp\obj\Debug\BlockchainApp_MarkupCompile.lref
+C:\Users\dastan\Desktop\Aplikacja\BlockchainApp\obj\Debug\AddProduct.baml
+C:\Users\dastan\Desktop\Aplikacja\BlockchainApp\obj\Debug\Connection.baml
+C:\Users\dastan\Desktop\Aplikacja\BlockchainApp\obj\Debug\LoginForm.baml
+C:\Users\dastan\Desktop\Aplikacja\BlockchainApp\obj\Debug\ProductDetails.baml
+C:\Users\dastan\Desktop\Aplikacja\BlockchainApp\obj\Debug\BlockchainApp.g.resources
+C:\Users\dastan\Desktop\Aplikacja\BlockchainApp\obj\Debug\BlockchainApp.Properties.Resources.resources
+C:\Users\dastan\Desktop\Aplikacja\BlockchainApp\obj\Debug\BlockchainApp.csproj.GenerateResource.cache
+C:\Users\dastan\Desktop\Aplikacja\BlockchainApp\obj\Debug\BlockchainApp.csproj.CoreCompileInputs.cache
+C:\Users\dastan\Desktop\Aplikacja\BlockchainApp\obj\Debug\BlockchainApp.csproj.CopyComplete
+C:\Users\dastan\Desktop\Aplikacja\BlockchainApp\obj\Debug\BlockchainApp.exe
+C:\Users\dastan\Desktop\Aplikacja\BlockchainApp\obj\Debug\BlockchainApp.pdb
